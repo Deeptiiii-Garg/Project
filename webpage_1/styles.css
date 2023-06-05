@@ -1,0 +1,33 @@
+body{
+    background: #333;
+    font-family: georgia, times, serif;
+    color: #fff;
+    font-size: 20px;
+    }
+h1,h2,h3,h4,h5,h6{
+  font-family: helvetica, arial,sans-serif;
+  background: #000;
+  border: dashed 1px blue;
+  color: #ffcc33;
+  font: 2em;
+  padding: 5px;
+}
+table,th{
+  color: orange;
+}
+legend{
+  color: red;
+}
+ol{
+  border: solid 4px cyan;
+  background: purple;
+  padding: 20px 20px 20px 40px;
+  margin: 5% 0;
+}
+a{
+  color: red;
+}
+
+strong{
+  color: blue;
+}
